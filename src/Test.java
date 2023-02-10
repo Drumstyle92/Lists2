@@ -40,9 +40,5 @@ public class Test {
         Collections.sort(randomNumbers);
         System.out.println("-------------------------ArraysList3------------------------------------");
         System.out.println(randomNumbers);
-
-
-
-
     }
 }
